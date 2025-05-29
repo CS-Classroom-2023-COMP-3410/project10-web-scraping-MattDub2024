@@ -1,0 +1,56 @@
+{
+  "courses": [
+    {
+      "course": "COMP 3372",
+      "tittle": "Advanced Algorithms  (4 Credits"
+    },
+    {
+      "course": "COMP 3400",
+      "tittle": "Advanced Unix Tools  (4 Credits"
+    },
+    {
+      "course": "COMP 3441",
+      "tittle": "Introduction to Probability and Statistics for Data Science  (4 Credits"
+    },
+    {
+      "course": "COMP 3455",
+      "tittle": "Shell Scripting and System Tools  (4 Credits"
+    },
+    {
+      "course": "COMP 3681",
+      "tittle": "Networking for Games  (4 Credits"
+    },
+    {
+      "course": "COMP 3701",
+      "tittle": "Topics in Computer Graphics  (4 Credits"
+    },
+    {
+      "course": "COMP 3702",
+      "tittle": "Topics in Database  (4 Credits"
+    },
+    {
+      "course": "COMP 3703",
+      "tittle": "Topics-Artificial Intelligence  (4 Credits"
+    },
+    {
+      "course": "COMP 3704",
+      "tittle": "Advanced Topics: Systems  (4 Credits"
+    },
+    {
+      "course": "COMP 3705",
+      "tittle": "Topics in Computer Science  (1-4 Credits"
+    },
+    {
+      "course": "COMP 3732",
+      "tittle": "Human-Centered Data Security and Privacy  (4 Credits"
+    },
+    {
+      "course": "COMP 3991",
+      "tittle": "Independent Study  (1-10 Credits"
+    },
+    {
+      "course": "COMP 3995",
+      "tittle": "Independent Research  (1-10 Credits"
+    }
+  ]
+}
